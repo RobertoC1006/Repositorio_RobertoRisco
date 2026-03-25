@@ -1,2 +1,4 @@
 # Repositorio_RobertoRisco
-HOla soy Roberto RIsco
+Hola soy Roberto RIsco
+Curso: herramientas de desarrollo 
+Profesor: Teofilo Roberto Correa Calle
